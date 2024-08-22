@@ -1,0 +1,1 @@
+import{_ as o}from"../example_bi-grid_index.md.8Z1bhwnf.js";import"./framework.CSjH_cqB.js";import"./index.vue_vue_type_style_index_0_scoped_f162bccb_lang.BTrT-hVi.js";import"./theme.Dk_-M9s7.js";export{o as default};
